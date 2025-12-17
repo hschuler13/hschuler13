@@ -13,7 +13,7 @@ Secret ( •̀ ω •́ )✧
 - Design: Figma
 
 #### Contact Me
--
+- Message me on LinkedIn
 
 <!--
 **hschuler13/hschuler13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
