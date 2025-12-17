@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hello (≧∇≦)ﾉ
+
+#### Who Am I?
+I'm Helena, a senior computer science student. I mainly do web development. Currently, I'm trying to learn more about AI/ML.
+
+#### Current Projects
+Secret ( •̀ ω •́ )✧
+
+#### Tools I Use
+- Frontend: React, Next.js, Radix UI, shadcn/ui, Tailwind, CSS, HTML
+- Backend: TypeScript, JavaScript
+- Database: MongoDB, Supabase, SQL
+- Design: Figma
+
+#### Contact Me
+-
 
 <!--
 **hschuler13/hschuler13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
