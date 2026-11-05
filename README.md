@@ -1,7 +1,7 @@
 ## Hello (≧∇≦)ﾉ
 
 #### Who Am I?
-I'm Helena, a masters student in computer science. I am currently working on my thesis on creating software to improve the teaching of communication in healthcare education. I enjoy helping others in their computer science journey, so if you need a helping hand, feel free to contact me.  
+I'm Helena, a masters student in computer science. I work in the RISE Lab under Dr. Felipe Fronchetti and am currently working on my thesis about creating software to improve the teaching of communication in healthcare education. I enjoy helping others in their computer science journey, so if you need a helping hand, feel free to contact me.  
 
 #### Current Projects
 I am in the process of uploading some personal projects to my GitHub page. Some are tools to help users in educating themselves and developing skills in various topics. Others are smaller endeavors to test my creativity. 
@@ -14,6 +14,7 @@ I am in the process of uploading some personal projects to my GitHub page. Some 
 
 #### Contact Me
 - Email (preferred point of contact): hschul7@lsu.edu
+- Discord: Available upon request
 - LinkedIn: linkedin.com/in/helenaschuler
 
 <!--
